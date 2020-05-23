@@ -1,0 +1,20 @@
+[sexta-feira, maio 22, 2020 BRT 11:12:49:373 pm] /PaisWeb/index.jsp
+
+[sexta-feira, maio 22, 2020 BRT 11:12:50:706 pm] /PaisWeb/css/style.css
+
+[sexta-feira, maio 22, 2020 BRT 11:12:50:718 pm] /PaisWeb/css/bootstrap.min.css
+
+[sexta-feira, maio 22, 2020 BRT 11:12:50:808 pm] /PaisWeb/js/jquery.min.js
+
+[sexta-feira, maio 22, 2020 BRT 11:12:50:863 pm] /PaisWeb/js/bootstrap.min.js
+
+[sexta-feira, maio 22, 2020 BRT 11:12:54:985 pm] ListarPaisesReiniciar
+
+[sexta-feira, maio 22, 2020 BRT 11:12:55:052 pm] /PaisWeb/Login.jsp
+
+[sexta-feira, maio 22, 2020 BRT 11:12:55:630 pm] /PaisWeb/js/jquery.min.js
+
+[sexta-feira, maio 22, 2020 BRT 11:12:55:633 pm] /PaisWeb/css/style.css
+
+[sexta-feira, maio 22, 2020 BRT 11:12:55:795 pm] /PaisWeb/fonts/glyphicons-halflings-regular.eot
+
